@@ -31,7 +31,7 @@ This project demonstrates:
 ---
 
 # 📁 Project Structure
-
+```
 express-ejs-contact-form
 │
 ├── views
@@ -42,27 +42,28 @@ express-ejs-contact-form
 ├── package.json
 ├── package-lock.json
 └── app.js
-
+```
 ---
 
 # ⚙️ Installation
 
+
 Clone the repository:
-
-git clone YOUR_REPOSITORY_LINK
-
+```
+git clone https://github.com/ifra489/express-ejs-contact-form.git
+```
 Move into the project folder:
-
+```
 cd express-ejs-contact-form
-
+```
 Install dependencies:
-
+```
 npm install
-
+```
 Run the server:
-
+```
 node app.js
-
+```
 ---
 
 # 🌐 Run in Browser
